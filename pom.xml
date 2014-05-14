@@ -15,8 +15,8 @@
 
     <groupId>com.datasift.dropwizard</groupId>
     <artifactId>dropwizard-cassandra</artifactId>
-    <version>0.7.1-1-SNAPSHOT</version>
-    <packaging>pom</packaging>
+    <version>0.7.0-1-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <name>Dropwizard Cassandra</name>
     <url>http://datasift.github.com/dropwizard-cassandra</url>
@@ -28,7 +28,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.build.outputEncoding>UTF-8</project.build.outputEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <dropwizard.version>0.7.0-SNAPSHOT</dropwizard.version>
+        <dropwizard.version>0.7.0</dropwizard.version>
         <cassandra.driver.version>2.0.2</cassandra.driver.version>
     </properties>
 
